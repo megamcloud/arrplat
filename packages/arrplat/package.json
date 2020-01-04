@@ -1,0 +1,36 @@
+{
+  "name": "arrplat",
+  "version": "0.0.7",
+  "description": "The PaaS open-source platform",
+  "main": "lib/main.js",
+  "scripts": {
+    "watch": "nodemon --watch './' -e ts,tsx --exec 'ts-node' ./index.ts",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "GeorgeZou",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.19.0",
+    "class-transformer": "^0.2.3",
+    "class-validator": "^0.11.0",
+    "kcors": "^2.2.2",
+    "koa": "^2.11.0",
+    "koa-bodyparser": "^4.2.1",
+    "koa-jwt": "^3.6.0",
+    "koa-multer": "^1.0.2",
+    "koa-router": "^7.4.0",
+    "minimist": "^1.2.0",
+    "mysql": "^2.17.1",
+    "reflect-metadata": "^0.1.13",
+    "routing-controllers": "^0.8.0",
+    "typeorm": "^0.2.20"
+  },
+  "devDependencies": {
+    "@types/koa": "^2.0.52",
+    "@types/koa-bodyparser": "^4.3.0",
+    "@types/koa-router": "^7.0.42",
+    "@types/node": "^8.0.28",
+    "typescript": "~3.0.0"
+  },
+  "gitHead": "b8077bbae746bd6bb291e509887082e09108ef28"
+}

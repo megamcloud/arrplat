@@ -1,0 +1,19 @@
+{
+  "type": "mysql",
+  "host": "39.106.39.85",
+  "port": 3306,
+  "username": "arrplat",
+  "password": "a123456",
+  "database": "arrplat",
+  "synchronize": true,
+  "logging": false,
+  "entities": [
+    "apps/*/entity/*.ts"
+  ],
+  "migrations": [
+    "apps/*/migration/*.ts"
+  ],
+  "subscribers": [
+    "src/*/subscriber/*.ts"
+  ]
+}

@@ -1,0 +1,105 @@
+const apps = [{
+  "id": 1,
+  "name": "CRM",
+  "icon": "el-icon-platform-eleme",
+  "homeRoute": "crm",
+  "link": "crm"
+}, {
+  "id": 2,
+  "name": "ERP",
+  "icon": "el-icon-user-solid",
+  "homeRoute": "crm",
+  "link": "crm"
+}, {
+  "id": 3,
+  "name": "营销云",
+  "icon": "el-icon-star-on",
+  "homeRoute": "crm",
+  "link": "crm"
+}, {
+  "id": 4,
+  "name": "服务中心",
+  "icon": "el-icon-info",
+  "homeRoute": "crm",
+  "link": "crm"
+}, {
+  "id": 5,
+  "name": "管理后台",
+  "icon": "crm",
+  "homeRoute": "crm",
+  "link": "crm"
+}, {
+  "id": 4,
+  "name": "服务中心",
+  "icon": "crm",
+  "homeRoute": "crm",
+  "link": "crm"
+}, {
+  "id": 5,
+  "name": "管理后台",
+  "icon": "crm",
+  "homeRoute": "crm",
+  "link": "crm"
+}, {
+  "id": 4,
+  "name": "服务中心",
+  "icon": "crm",
+  "homeRoute": "crm",
+  "link": "crm"
+}, {
+  "id": 5,
+  "name": "管理后台",
+  "icon": "crm",
+  "homeRoute": "crm",
+  "link": "crm"
+}, {
+  "id": 4,
+  "name": "服务中心",
+  "icon": "crm",
+  "homeRoute": "crm",
+  "link": "crm"
+}, {
+  "id": 5,
+  "name": "管理后台",
+  "icon": "crm",
+  "homeRoute": "crm",
+  "link": "crm"
+}, {
+  "id": 4,
+  "name": "服务中心",
+  "icon": "crm",
+  "homeRoute": "crm",
+  "link": "crm"
+}, {
+  "id": 5,
+  "name": "管理后台",
+  "icon": "crm",
+  "homeRoute": "crm",
+  "link": "crm"
+}, {
+  "id": 4,
+  "name": "服务中心",
+  "icon": "crm",
+  "homeRoute": "crm",
+  "link": "crm"
+}, {
+  "id": 5,
+  "name": "管理后台",
+  "icon": "crm",
+  "homeRoute": "crm",
+  "link": "crm"
+}, {
+  "id": 4,
+  "name": "服务中心",
+  "icon": "crm",
+  "homeRoute": "crm",
+  "link": "crm"
+}, {
+  "id": 5,
+  "name": "管理后台",
+  "icon": "crm",
+  "homeRoute": "crm",
+  "link": "crm"
+}]
+
+export default apps

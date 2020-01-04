@@ -1,0 +1,8 @@
+{
+  "name": "@arrplat/plus-crm",
+  "title": "客户管理",
+  "description": "The best free CRM",
+  "icon": "http://q2jn3jqe9.bkt.clouddn.com/17CRM.png",
+  "apiRoute": "crm",
+  "adminRoute": "crm"
+}
